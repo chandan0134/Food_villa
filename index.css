@@ -32,3 +32,9 @@
 .card>img {
     width: 200px;
 }
+
+.res-list {
+    flex: wrap;
+    display: flex;
+    justify-content: center;
+}
